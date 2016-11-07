@@ -1,2 +1,3 @@
 # hi-there
-Well hello there, fancy meeting you here.  Come here often?
+
+*Dragons, the policeman knew, were supposed to breathe fire and occasionally get themselves slaughtered.*
